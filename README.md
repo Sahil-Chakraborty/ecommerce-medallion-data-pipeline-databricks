@@ -50,7 +50,7 @@ The project implements a Medallion Architecture to progressively refine data qua
 ## 📊 Tableau Dashboards
 
 🔗 **Live Dashboard:**  
-[View on Tableau Public]((https://public.tableau.com/views/Book1_17709891109510/REVENUE?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View on Tableau Public](https://public.tableau.com/views/Book1_17709891109510/REVENUE?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The gold-layer dataset powers business-facing dashboards focused on revenue, product performance, and geographic insights.
 
